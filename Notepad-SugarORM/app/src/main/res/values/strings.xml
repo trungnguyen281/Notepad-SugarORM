@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notepad-SugarORM</string>
+    <string-array name="Maincategory">
+        <item>All</item>
+        <item>Life</item>
+        <item>Study</item>
+        <item>Love</item>
+        <item>Unclassified</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>Life</item>
+        <item>Study</item>
+        <item>Love</item>
+        <item>Unclassified</item>
+    </string-array>
+</resources>
